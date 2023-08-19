@@ -16,7 +16,7 @@
 
 O propósito deste documento é definir as necessidades de alto-nível e características do sistema **Monitora**.
 
-## **2. Descrição da Solução**
+## **2. Descrição do Sistema**
 
 Com a evolução dos sistemas de informação e das aplicação de automação residencial, faz-se necessário o controle dos recursos existentes em uma casa, como por exemplo: consumo de água, consumo de energia, consumo do gás de cozinha, consumo do garrafão de água, etc.
 
