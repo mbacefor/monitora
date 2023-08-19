@@ -62,26 +62,16 @@ O sistema contém as seguintes funcionalidades:
 ## **5. Necessidades e Funcionalidades**
 
 
-### #N001. Cadastrar gelagua
-
-#### #N001-F001. Inserir novo gelagua
-
-#### #N001-F002. Listar gelaguas cadastrados
-
-#### #N001-F003. Visualizar e Editar gelaguas cadastrados
-
-#### #N001-F004. Excluir gelaguas cadastrados
-
-### #N002. Cadastrar botijão de gás
-
-#### #N002-F001Inserir novo botijão de gás
-
-#### #N002-F002Listar botijão de gás
-
-#### #N002-F003Visualizar e Editar botijão de gás
-
-#### #N002-F004Excluir botijão de gás
-
+* #N001. Cadastrar gelagua
+  * #N001-F001. Inserir novo gelagua
+  * #N001-F002. Listar gelaguas cadastrados
+  * #N001-F003. Visualizar e Editar gelaguas cadastrados
+  * #N001-F004. Excluir gelaguas cadastrados
+* #N002. Cadastrar botijão de gás
+  * #N002-F001. Inserir novo botijão de gás
+  * #N002-F002. Listar botijão de gás
+  * #N002-F003. Visualizar e Editar botijão de gás
+  * #N002-F004. Excluir botijão de gás
 
 ## **6. Arquitetura**
 
